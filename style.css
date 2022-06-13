@@ -41,4 +41,10 @@ body {
   font-weight: 400;
   font-size: 1.3rem;
   color: hsl(220deg, 15%, 55%);
+}
+
+@media (min-width: 500px) {
+  .container {
+    width: 375px;
+  }
 }/*# sourceMappingURL=style.css.map */
